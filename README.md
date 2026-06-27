@@ -2,6 +2,11 @@
 
 A data-driven market intelligence platform for monitoring, forecasting, and analysing global chemical commodity prices. Built for procurement teams and market analysts to make informed sourcing decisions.
 
+## Live App
+
+**App:** [suvira-intelligence.streamlit.app](https://suvira-intelligence.streamlit.app)
+Built and deployed using Streamlit Community Cloud.
+
 ## Overview
 
 Suvira Intelligence tracks and forecasts prices for 8 key industrial chemicals imported into India:
