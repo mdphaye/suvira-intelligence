@@ -5,7 +5,6 @@ A data-driven market intelligence platform for monitoring, forecasting, and anal
 ## Live App
 
 **App:** [suvira-intelligence.streamlit.app](https://suvira-intelligence.streamlit.app)
-Built and deployed using Streamlit Community Cloud.
 
 ## Overview
 
