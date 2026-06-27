@@ -1,0 +1,130 @@
+[
+  {
+    "chemical": "Acetic Acid",
+    "file": "acetic_acid_arima.pkl",
+    "order": [
+      1,
+      0,
+      1
+    ],
+    "n_obs": 76,
+    "train_start": "2020-01-01",
+    "train_end": "2026-04-01",
+    "validation_mape": 6.517,
+    "validation_rmse": 31.906,
+    "validation_mae": 29.48,
+    "cv_mape": 6.517
+  },
+  {
+    "chemical": "Formates",
+    "file": "formates_arima.pkl",
+    "order": [
+      0,
+      1,
+      0
+    ],
+    "n_obs": 76,
+    "train_start": "2020-01-01",
+    "train_end": "2026-04-01",
+    "validation_mape": 6.114,
+    "validation_rmse": 93.717,
+    "validation_mae": 88.036,
+    "cv_mape": 6.114
+  },
+  {
+    "chemical": "KCL",
+    "file": "kcl_arima.pkl",
+    "order": [
+      0,
+      0,
+      1
+    ],
+    "n_obs": 76,
+    "train_start": "2020-01-01",
+    "train_end": "2026-04-01",
+    "validation_mape": 6.191,
+    "validation_rmse": 40.279,
+    "validation_mae": 23.591,
+    "cv_mape": 6.191
+  },
+  {
+    "chemical": "PAC",
+    "file": "pac_arima.pkl",
+    "order": [
+      0,
+      1,
+      0
+    ],
+    "n_obs": 76,
+    "train_start": "2020-01-01",
+    "train_end": "2026-04-01",
+    "validation_mape": 24.538,
+    "validation_rmse": 84.034,
+    "validation_mae": 81.017,
+    "cv_mape": 24.538
+  },
+  {
+    "chemical": "Sulphur",
+    "file": "sulphur_arima.pkl",
+    "order": [
+      2,
+      0,
+      0
+    ],
+    "n_obs": 76,
+    "train_start": "2020-01-01",
+    "train_end": "2026-04-01",
+    "validation_mape": 4.198,
+    "validation_rmse": 16.626,
+    "validation_mae": 11.526,
+    "cv_mape": 4.198
+  },
+  {
+    "chemical": "Sulphuric Acid",
+    "file": "sulphuric_acid_arima.pkl",
+    "order": [
+      2,
+      1,
+      0
+    ],
+    "n_obs": 76,
+    "train_start": "2020-01-01",
+    "train_end": "2026-04-01",
+    "validation_mape": 9.486,
+    "validation_rmse": 18.48,
+    "validation_mae": 12.723,
+    "cv_mape": 9.486
+  },
+  {
+    "chemical": "Urea",
+    "file": "urea_arima.pkl",
+    "order": [
+      0,
+      0,
+      1
+    ],
+    "n_obs": 76,
+    "train_start": "2020-01-01",
+    "train_end": "2026-04-01",
+    "validation_mape": 1.662,
+    "validation_rmse": 12.316,
+    "validation_mae": 6.781,
+    "cv_mape": 1.662
+  },
+  {
+    "chemical": "Water Treatment Chemicals",
+    "file": "water_treatment_chemicals_arima.pkl",
+    "order": [
+      0,
+      1,
+      1
+    ],
+    "n_obs": 76,
+    "train_start": "2020-01-01",
+    "train_end": "2026-04-01",
+    "validation_mape": 14.065,
+    "validation_rmse": 611.078,
+    "validation_mae": 558.316,
+    "cv_mape": 14.065
+  }
+]
